@@ -24,6 +24,7 @@ public class MasterMind {
 		for (i=0; i<combinacion.length; i++)
 			combinacion[i] = asignarColor ();
 		System.out.print("hola");
+		System.out.print("adios");
 	}
 	
 	private void inicializarTablero () {
